@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  With this course, I learn the fundamentals of Redux stores, actions, reducers and middleware to manage data.
+  With this course, I learnt the fundamentals of Redux stores, actions, reducers and middleware to manage data.
 </p>
 
 ## Steps
